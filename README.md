@@ -6,15 +6,23 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 6
 This assignment showcases skills and learnings in Python, Jupyter Notebook, Pandas, MatPlotLib, Summary Statistics, Scipy.stats, APIs, and Markdown
 
 Where to find files:
-- the script: 
-    - Folder/File.ipynb
+- the scripts:
+    - API_Project6/scripts/WeatherPy.ipynb
+    - API_Project6/scripts/VacationPy.ipynb
+    - API_Project6/scripts/api_keys.py
 
 - the data:
     - Folder/sub-folder/files.csv
     - Folder/sub-folder/files.csv
 
 - License:
-    - LICENSE
+    - /LICENSE
+
+- Readme:
+    - /README
+
+- GITIGNORE:
+    - /.gitignore 
 
 ----- Filler -----
 
