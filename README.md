@@ -1,8 +1,6 @@
 # PythonAPIs_Challenge
 Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 6
 
------ Filler ------
-
 This assignment showcases skills and learnings in Python, Jupyter Notebook, Pandas, MatPlotLib, Summary Statistics, Scipy.stats, APIs, and Markdown
 
 Where to find files:
