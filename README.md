@@ -24,3 +24,7 @@ Where to find files:
 
 - GITIGNORE:
     - /.gitignore 
+
+---
+
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
