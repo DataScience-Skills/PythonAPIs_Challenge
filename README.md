@@ -26,3 +26,8 @@ __Purpose:__ The purpose of this project is to utilize Python coding skills, dat
    - Create a DataFrame to store city, country, coordinates, and humidity.
    - Use the Geoapify API to find the nearest hotel within 10,000 meters of each city's coordinates.
    - Add hotel names and countries as additional information in hover messages on the map.
+
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-cloudiness.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2022-10-18.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2023-05-12.png)
