@@ -31,9 +31,10 @@ Where to visit depends on what our vacation plans are; where we want to go, what
 - [OpenWeather](https://openweathermap.org/)
 - [Geoapify](https://www.geoapify.com/)
 
+### Visualizations
 These visualizations help paint the picture why we want to visit these areas for vacations:
-
-![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature.png)
-![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-cloudiness.png)
-![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2022-10-18.png)
-![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2023-05-12.png)
+![![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature-plotly.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature-matplotlib.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-cloudiness-matplotlib.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2022-10-18-matplotlib.png)
+![latitude-vs-temperature](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2023-05-12-matplotlib.png)
