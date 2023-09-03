@@ -6,7 +6,7 @@
 
 
 ### __The Story:__
-We want to answer a question: "What is the weather like as we approach the equator?". This is answered by visualizing weather data from over 500 cities across the world and analyzing the relationship between weather variables and latitude. This information is used to plan vacations.
+"Where should we go for vacation, and what is the weather like around the world?". To answer this question, we visualize weather data from over 500 cities across the world and analyze the relationship between weather variables and latitude. Will this help you decide where to go for vacation?
 
 ### Languages, Libraries & Tools Used:
 - **Python:** Utilize Python programming language to handle data manipulation, analysis, and visualization tasks.
@@ -25,6 +25,10 @@ Where to visit depends on what our vacation plans are; where we want to go, what
 | Desert | test-city-1, test-city-2 |
 | Windsurfing | test-city-1, test-city-2 |
 | Camping | test-city-1, test-city-2 |
+
+### Sources
+- [OpenWeather](https://openweathermap.org/)
+- [Geoapify](https://www.geoapify.com/)
 
 These visualizations help paint the picture why we want to visit these areas for vacations:
 
