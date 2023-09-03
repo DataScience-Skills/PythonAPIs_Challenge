@@ -36,5 +36,5 @@ These visualizations help paint the picture why we want to visit these areas for
 ![![latitude-vs-temperature-plotly](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature-plotly.png)
 ![latitude-vs-temperature-matplolib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-temperature-matplotlib.png)
 ![latitude-vs-cloudiness-matplotlib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-cloudiness-matplotlib.png)
-![latitude-vs-windSpeed-2023-10-18-matplotlib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2023-10-18-matplotlib.png)
-![latitude-vs-WindSpeed-2023-05-12-matplotlib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windSpeed-2023-05-12-matplotlib.png)
+![latitude-vs-windSpeed-2023-10-18-matplotlib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windspeed-2023-10-18-matplotlib.png)
+![latitude-vs-WindSpeed-2023-05-12-matplotlib](https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns/blob/main/images/latitude-vs-windspeed-2023-05-12-matplotlib.png)
