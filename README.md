@@ -1,5 +1,5 @@
-## Analysis of Global Weather Patterns
-### Access the app here: [Analysis of Global Weathe Patterns](https://robert-z-lehr.github.io/Analysis-of-Global-Weather-Patterns/)
+## Weather Analysis of Vacation Locations
+### Access the app here: [Weather Analysis of Vacation Locations](https://robert-z-lehr.github.io/Analysis-of-Global-Weather-Patterns/)
 ---
 #### __Note__: Educational Material
 - _This project is intended as reference and educational material; expect extensive code documentation_
